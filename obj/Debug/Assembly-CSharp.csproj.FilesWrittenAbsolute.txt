@@ -1,0 +1,17 @@
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/obj/Debug/Assembly-CSharp.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/UnityEngine.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/UnityEditor.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Mono.Cecil.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Unity.DataContract.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/EngineerKunle/Documents/cohaesus_projects/Clock/Temp/bin/Debug/Mono.Cecil.Mdb.dll
